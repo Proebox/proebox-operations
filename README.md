@@ -47,3 +47,6 @@
                 `
             - npm version minor -m "comment"    // major | minor | patch
             - npm publish --access public
+        - Step 6 : Check
+            - https://www.npmjs.com/package/proebox-operations
+                - npm i proebox-operations
