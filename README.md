@@ -45,3 +45,5 @@
                 npm notice
                 + proebox-operations@0.1.0
                 `
+            - npm version minor -m "comment"
+            - npm publish --access public
