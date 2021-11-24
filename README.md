@@ -18,14 +18,17 @@
         - Step 5: Publishing package
             - cd proebox-operations
             - npm login
-                npm notice Log in on https://registry.npmjs.org/
+
+                ` npm notice Log in on https://registry.npmjs.org/
                 Username: yuansix
                 Password:
                 Email: (this IS public) juan.siesquen@gmail.com
                 Logged in as yuansix on https://registry.npmjs.org/.
+                `
             - npm publish
-                npm notice
-                npm notice �  proebox-operations@0.1.0
+            
+                ` npm notice
+                npm notice proebox-operations@0.1.0
                 npm notice === Tarball Contents ===
                 npm notice 1.0kB README.md
                 npm notice 329B  index.js
@@ -41,3 +44,4 @@
                 npm notice total files:   3
                 npm notice
                 + proebox-operations@0.1.0
+                `
