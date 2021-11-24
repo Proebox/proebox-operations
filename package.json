@@ -1,0 +1,25 @@
+{
+  "name": "proebox-operations",
+  "version": "0.1.0",
+  "description": "Learning operations basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proebox/proebox-operations.git"
+  },
+  "keywords": [
+    "operations",
+    "first",
+    "npm",
+    "package"
+  ],
+  "author": "Juan Siesquen Rosales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proebox/proebox-operations/issues"
+  },
+  "homepage": "https://github.com/Proebox/proebox-operations#readme"
+}
